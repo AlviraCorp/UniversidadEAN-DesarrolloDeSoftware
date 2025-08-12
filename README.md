@@ -1,1 +1,3 @@
 # UniversidadEAN-DesarrolloDeSoftware
+
+Para el desarrollo de el proyecto Parqueadero, se utilizo el entorno de desarrollo Apache NetBeans IDE20, el lenguaje utilizado para desarrollar el programa es JAVA, para desarrollar los diagramas UML se utilizo la herramienta Visual Paradigma 17.2.
